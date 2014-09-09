@@ -5,7 +5,7 @@ function FindProxyForURL(url, host)
     
     // whole site
     var prod_list = [
-    'http://sti13*'
+    'http://st13*'
     ];
 
     var qa_list = [
